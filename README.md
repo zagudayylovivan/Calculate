@@ -1,2 +1,2 @@
-# Calculate
+# java_courses
 For studing
